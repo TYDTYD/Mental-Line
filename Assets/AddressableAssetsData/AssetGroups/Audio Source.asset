@@ -1,0 +1,165 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Audio Source
+  m_EditorClassIdentifier: 
+  m_GroupName: Audio Source
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b7258cf9b0955904ab57a8716863acae
+  m_SerializeEntries:
+  - m_GUID: 66dc57379acec5248af843c0e3ae6202
+    m_Address: Assets/4. Asset/PlayerSound/Player5.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: 3d787216f2fa1e14aaf144e0eab30256
+    m_Address: Assets/4. Asset/PlayerSound/Player15.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: 235b8edbf82e24a4f90e8d41197beeae
+    m_Address: Assets/4. Asset/PlayerSound/Player14.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: faf9907fdfb8783448dcdc2ff051d6c4
+    m_Address: Assets/4. Asset/PlayerSound/Player8.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: 418e91a12a36b9c49aa4a7d5e671cc1b
+    m_Address: Assets/4. Asset/PlayerSound/Player12.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: 46c4c0094dac5634abf0667667d06a34
+    m_Address: Assets/4. Asset/PlayerSound/Player17.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: 79d7fb3e48b943d44a108bddc4e539ef
+    m_Address: Assets/4. Asset/PlayerSound/Player1.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: b9af06294ab072c4e9882ecd33e29eb9
+    m_Address: Assets/4. Asset/PlayerSound/Player3.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: d5ed589de44bd8f4582b6ad58b5f9423
+    m_Address: Assets/4. Asset/PlayerSound/Player2.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: 3c1073afed13b79489933f1f419017c4
+    m_Address: Assets/4. Asset/PlayerSound/Player6.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: fa78d1be51734834a9a347190946cba3
+    m_Address: Assets/4. Asset/PlayerSound/Player10.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: a70372070ca8124469752f4a2dc4b74b
+    m_Address: Assets/4. Asset/PlayerSound/Player4.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: 40dc906fb57973546b4d5ac548def679
+    m_Address: Assets/4. Asset/PlayerSound/Player11.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: 9630f397ceed2ad4aae6229311bd138a
+    m_Address: Assets/4. Asset/PlayerSound/Player9.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: 17ae3f3afe3272940a647a2c4495d0bd
+    m_Address: Assets/4. Asset/PlayerSound/Player13.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: b236dfa863cc62b428a40b39c465fc9e
+    m_Address: Assets/4. Asset/PlayerSound/Player16.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: 957f12d9d29e41c408e6a80cb56a8865
+    m_Address: Assets/4. Asset/PlayerSound/Player7.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: fb63877390ed02b4893e740ac85ace2b
+    m_Address: Assets/4. Asset/sound/Button.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: 82aa51f975eb36f43886faecfe0bdd17
+    m_Address: Assets/4. Asset/sound/combo.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: d640ba32fecc70c43a950af2f4ef4b77
+    m_Address: Assets/4. Asset/sound/StoreBGM.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: 6ea55fe23092ff44da5ff89331971ac8
+    m_Address: Assets/4. Asset/sound/Buy.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: 1663af72fc7b1514092bb3729b53844c
+    m_Address: Assets/4. Asset/sound/Grappling.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: 540914112d1d7784390ae30d0db653ad
+    m_Address: Assets/4. Asset/sound/StageClear.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: 138955836d40b4247a16c20cad689839
+    m_Address: Assets/4. Asset/sound/HomeBGM.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: cf454592cdcd57e43ae5c8fc8e9f77df
+    m_Address: Assets/4. Asset/sound/StageBGM.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: 9f220d2bfb31ccc48b4540de8dc1921e
+    m_Address: Assets/4. Asset/sound/Monster.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: b0bcaab627accc84a86d5e52b7330603
+    m_Address: Assets/4. Asset/sound/Dead.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  - m_GUID: 2431a74ecc839874eabe16932a6a6525
+    m_Address: Assets/4. Asset/sound/StoryBGM.mp3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Audio
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3c3065534a1bbc147af1de26ab0efd82, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4b000c6d2dba17a4bbf6cdf638e116ce, type: 2}
+    - {fileID: 11400000, guid: 3165ec240632c7c4b98a55296dcb83bf, type: 2}

@@ -1,0 +1,201 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 522faf3ccdca11548a454b983d618099
+  m_SerializeEntries:
+  - m_GUID: e0a19384701c16348948d1651264f6ef
+    m_Address: Assets/2. Prefab/Audio/StageBGM.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5f094f1ddb54f074ba307734476afbdd
+    m_Address: Assets/2. Prefab/Audio/StoreBGM.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 182696f77dc3ea0448ea28ab9541975a
+    m_Address: Assets/2. Prefab/Audio/StoryBGM.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7406092b4e44da54db70eb9fa8d7903b
+    m_Address: Assets/2. Prefab/Audio/Player1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 21e79dcb19a8e9646866dd7e1a2ec38b
+    m_Address: Assets/2. Prefab/Audio/Player2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6e18bffa9f387f34f896dd984f44d80b
+    m_Address: Assets/2. Prefab/Audio/Player3.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd19a8c95c331d5469b32bd01b3edf72
+    m_Address: Assets/2. Prefab/Audio/Player4.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9521aabc477a76e448479dd24882ecbf
+    m_Address: Assets/2. Prefab/Audio/Player5.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 37fb159d64595d74fa995bfb0fb8812d
+    m_Address: Assets/2. Prefab/Audio/Player6.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 85587edde2f916045985a458a7cc5267
+    m_Address: Assets/2. Prefab/Audio/Player7.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5ae5f7c3639cca54fb1865f57b6ebfca
+    m_Address: Assets/2. Prefab/Audio/Player8.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1a2a93a23c7917b4ca5b0d93fbd91794
+    m_Address: Assets/2. Prefab/Audio/Player9.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f08442a6700fe00488c32bf3cf4b973a
+    m_Address: Assets/2. Prefab/Audio/Player10.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4e378b5751dc96748b4fcfc7222411de
+    m_Address: Assets/2. Prefab/Audio/Player11.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8696c49d44ccc4a4a85cca32fbc73a3b
+    m_Address: Assets/2. Prefab/Audio/Player12.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 39a95a563d067e34dbef5786f20da401
+    m_Address: Assets/2. Prefab/Audio/Player13.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: abf63bf6577720e42a097348ad20bcbb
+    m_Address: Assets/2. Prefab/Audio/Player14.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 64329e0e5b8ccb7439ee4acc04923780
+    m_Address: Assets/2. Prefab/Audio/Player15.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bb2ad192616dbff45b757aa9efb877d3
+    m_Address: Assets/2. Prefab/Audio/Player16.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a6c530997afb1f844b3bee3d8e647eef
+    m_Address: Assets/2. Prefab/Audio/Player17.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5d15fe4b788c25641b274447b7158130
+    m_Address: Assets/2. Prefab/SFX/Button.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d6220fc66d139254e8971cb25e804b57
+    m_Address: Assets/2. Prefab/SFX/Buy.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 09c1aa36b1760c54fa0fd59ace306f33
+    m_Address: Assets/2. Prefab/SFX/Dead.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 180e92fdacddec84a8bed5490d5703ef
+    m_Address: Assets/2. Prefab/SFX/Grappling.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: ace69bb285364ee4ab6254d2b3550aec
+    m_Address: Assets/2. Prefab/SFX/StageClear.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6674faaf9bbed11469d28e3b8920c81b
+    m_Address: Assets/2. Prefab/SFX/Monster.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2ec775b391d22704cb5ffce9a9e7f736
+    m_Address: Player0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 97f78fbd76d448748a90697b134dd3aa
+    m_Address: Player1
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c3a67ca1ec78f44fa5503f23aad8ead
+    m_Address: Player2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: baa8cc61c5f7ec54086de4009dfd9dd6
+    m_Address: Player3
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3753d2e15da349640b3baafcb2ee094c
+    m_Address: Player4
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8789b95a1b979964dba44e1c5b6e0902
+    m_Address: Player5
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e55b6fb64f9050343a7289bd8b63e6be
+    m_Address: Player6
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: bbf85fa61705ed84caaeca20baf0922d
+    m_Address: Player7
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9992cbe6d02688d41bbb9ad7d268e8a1
+    m_Address: Player8
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cce3e805e1d0d5c4e8ebf70fadbdb5f9
+    m_Address: Player9
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2fc77d13ea4d62a4db90222708761afe
+    m_Address: Player10
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 59d90ae4c56245b478d1a73d5761be3c
+    m_Address: Player11
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3e8ecd74f45e47b4c8f7e30612a28ec4
+    m_Address: Player12
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e0c1efd30243ebe4b94471a93cebfd2f
+    m_Address: Player13
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0c01ef6a0104dac41836765070667794
+    m_Address: Player14
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0943eda877d7f634da51fd93cb48529f
+    m_Address: Player15
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 400e7a17f390c4c4b9b0c4682282d81f
+    m_Address: Player16
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 46510cb47fe93a846b895f9a02c73b64
+    m_Address: Player17
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3c3065534a1bbc147af1de26ab0efd82, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0c01d4b407360cc44bcaca29e9d66fdb, type: 2}
+    - {fileID: 11400000, guid: a4a32f5e441e3a744b6ff2660fa5f63d, type: 2}
