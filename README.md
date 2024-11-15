@@ -23,7 +23,11 @@
 - 최적화의 중요성을 깨달음. 뒤늦게 최적화를 시도했지만 성능 개선이 더디게 이루어짐 완전한 최적화 실패 => 설계가 매우 중요하다는 것을 깨달음
 ### 기술 설명서
 - GitHub 및 Github desktop을 통한 협업 개발
-- 그래플링 로직 개발
+
+<details>
+  <summary>
+    그래플링 로직 개발
+  </summary>
 <pre>
   <code>
     private void Awake()
@@ -123,7 +127,8 @@
     }
 }
   </code>
-</pre>
+</pre>  
+</details>
 - GPGS를 통한 랭킹 시스템 도입
 
 ![image](https://github.com/TYDTYD/Alone_Or_Together_ver2/assets/48386074/fa056cc6-f348-4ef0-94f9-16f91e99f5d1)
