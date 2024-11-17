@@ -1,5 +1,5 @@
 ## Mental Line
-![캡처](https://github.com/TYDTYD/Alone_Or_Together_ver2/assets/48386074/14203676-ccde-4794-8491-cc9a0d11f12c)
+![image](https://github.com/TYDTYD/Alone_Or_Together_ver2/assets/48386074/14203676-ccde-4794-8491-cc9a0d11f12c)
 ![image](https://github.com/TYDTYD/Alone_Or_Together_ver2/assets/48386074/1124ace9-c2ca-4a05-afb9-4637537f931e)
 
 [플레이 영상](https://youtu.be/JhcfNx301ok)
