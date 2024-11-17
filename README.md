@@ -125,11 +125,19 @@
         joint.damper = 10f;
         joint.massScale = 100f;
     }
-}
   </code>
 </pre>  
 </details>
-- GPGS를 통한 랭킹 시스템 도입
+<details>
+  <summary>
+    GPGS를 통한 랭킹 시스템 도입
+  </summary>
+<pre>
+  <code>
+
+  </code>
+</pre>  
+</details>
 
 ![image](https://github.com/TYDTYD/Alone_Or_Together_ver2/assets/48386074/fa056cc6-f348-4ef0-94f9-16f91e99f5d1)
 ![image](https://github.com/TYDTYD/Alone_Or_Together_ver2/assets/48386074/f629fdf6-2212-4962-bede-7bb05fcb190d)
